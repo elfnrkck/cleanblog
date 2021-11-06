@@ -1,0 +1,28 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "cleanblog design",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfnrkck/cleanblog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "elifnur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elfnrkck/cleanblog/issues"
+  },
+  "homepage": "https://github.com/elfnrkck/cleanblog#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
